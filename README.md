@@ -31,10 +31,10 @@ A partir disso, basta executar os passos para executar a API na porta 8080:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/paulojr-eco/product-management-system-backend.git
+git clone https://github.com/paulojr-eco/harry-potter-characters-backend.git
 
 # Acessar o diretório
-cd product-management-system-backend
+cd harry-potter-characters-backend
 
 # Rodar a aplicação em dev mode
 mvn spring-boot:run
