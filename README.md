@@ -13,7 +13,7 @@
 # :star: Features
 
 Esse projeto foi contruído com base na API de referência: <a href="https://hp-api.onrender.com/"> https://hp-api.onrender.com/ </a>.
-Ele tem a finalidade de retornar os personagens de Harry Potter de forma filtrada, contendo somente os campos usados no projeto <a>front-end</a>.
+Ele tem a finalidade de retornar os personagens de Harry Potter de forma filtrada, contendo somente os campos usados no projeto <a href="https://github.com/paulojr-eco/harry-potter-characters-frontend">front-end</a>.
 
 # :keyboard: Tecnologias
 
